@@ -5,8 +5,8 @@ Individual Retirement Accounts (IRAs) are tax-advantaged investment accounts des
     Contribution Limits – The IRS sets annual contribution limits, which may vary based on income, tax filing status, and age. For traditional and Roth IRAs, these limits are periodically adjusted for inflation.
 
     Tax Treatment –
-        [https://wealthypot.com/traditional-iras/](Traditional IRA): Contributions may be tax-deductible, and earnings grow tax-deferred until withdrawals begin, typically after age 59½.
-        [https://wealthypot.com/traditional-vs-roth-ira-picking-the-right-one/](Roth IRA): Contributions are made with after-tax dollars, but qualified withdrawals (including earnings) are tax-free.
+        [Traditional IRA](https://wealthypot.com/traditional-iras/): Contributions may be tax-deductible, and earnings grow tax-deferred until withdrawals begin, typically after age 59½.
+        [Roth IRA](https://wealthypot.com/traditional-vs-roth-ira-picking-the-right-one/): Contributions are made with after-tax dollars, but qualified withdrawals (including earnings) are tax-free.
 
     Required Minimum Distributions (RMDs) – Traditional IRAs require account holders to start withdrawing a minimum amount annually starting at age 73 (as of 2023). RMDs are calculated based on life expectancy and account balance. Roth IRAs do not require RMDs during the account holder’s lifetime.
 
