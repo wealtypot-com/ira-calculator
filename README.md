@@ -1,4 +1,4 @@
-IRA Calculations for [https://wealthypot.com/] (Wealthy pot) website: A Brief Overview
+IRA Calculations for  [Wealthy pot](https://wealthypot.com/) website: A Brief Overview
 
 Individual Retirement Accounts (IRAs) are tax-advantaged investment accounts designed to help individuals save for retirement. Calculating contributions, growth, and withdrawals for an IRA involves several key factors:
 
